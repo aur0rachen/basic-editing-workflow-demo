@@ -3,7 +3,7 @@ This repository is used to demonstrate a basic editing worklfow between a local 
 
 ## This is a second level header
 
-This is body text. *WOW* **WOW**
+This is body text. *WOW* **WOW** WOW
 
 * bullet 1
 * bullet 2
